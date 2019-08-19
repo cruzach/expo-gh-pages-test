@@ -32,7 +32,7 @@ self.__precacheManifest = [
     "url": "/./fonts/Foundation.ttf"
   },
   {
-    "revision": "f2b050e62d35a0ad31c92f13ed2aa7ae",
+    "revision": "7941010444a939873b020a19a0aecdeb",
     "url": "/index.html"
   },
   {
@@ -44,8 +44,8 @@ self.__precacheManifest = [
     "url": "/serve.json"
   },
   {
-    "revision": "0acf3ba6030d5a646e22",
-    "url": "/static/js/2.c568362c.chunk.js"
+    "revision": "d0291a743b94f1d0e37f",
+    "url": "/static/js/2.2b1a9e85.chunk.js"
   },
   {
     "revision": "a37b0c01c0baf1888ca812cc0508f6e2",
