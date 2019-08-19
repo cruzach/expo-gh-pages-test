@@ -32,7 +32,7 @@ self.__precacheManifest = [
     "url": "/expo-gh-pages-test/./fonts/Foundation.ttf"
   },
   {
-    "revision": "3d677c3c4ad3cd32f3b1dc291d46b55e",
+    "revision": "49a314e01b2f18fea7a85bc6b2a68a77",
     "url": "/expo-gh-pages-test/index.html"
   },
   {
@@ -44,8 +44,8 @@ self.__precacheManifest = [
     "url": "/expo-gh-pages-test/serve.json"
   },
   {
-    "revision": "37af9a2653c9f58a47e7",
-    "url": "/expo-gh-pages-test/static/js/2.58364428.chunk.js"
+    "revision": "2796e914df3a7188ee45",
+    "url": "/expo-gh-pages-test/static/js/2.2c6708b2.chunk.js"
   },
   {
     "revision": "a37b0c01c0baf1888ca812cc0508f6e2",
